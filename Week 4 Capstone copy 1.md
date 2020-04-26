@@ -37,7 +37,7 @@ Monterrey:
 
 Mexico City:
 
-<img src="Screen%20Shot%202020-04-26%20at%2012.49.48%20AM.png", width=800>
+<img src="<img src="learning/Screen%20Shot%202020-04-26%20at%2012.49.48%20AM.png">
 
 # Discussion
 
