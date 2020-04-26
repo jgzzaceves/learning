@@ -19,25 +19,25 @@ Finally, I'll normalize de data and get the mean of the three indicators, choosi
 
 Our original data frame is the following:
 
-![Screen%20Shot%202020-04-26%20at%2012.47.06%20AM.png](attachment:Screen%20Shot%202020-04-26%20at%2012.47.06%20AM.png)
+see table2.png folder
 
 Our results indicate that Guadalajara is the best city to open a coffee shop. This is represented in the following table are:
 
-![Screen%20Shot%202020-04-26%20at%2012.47.12%20AM.png](attachment:Screen%20Shot%202020-04-26%20at%2012.47.12%20AM.png)
+see table1.png in folder
 
 Which can be partially sustained by the maps presented here (low density is desired):
 
 Guadalajara:
 
-![Screen%20Shot%202020-04-26%20at%2012.48.07%20AM.png](attachment:Screen%20Shot%202020-04-26%20at%2012.48.07%20AM.png)
+See guad.png in folder
 
 Monterrey:
 
-![Screen%20Shot%202020-04-26%20at%2012.50.02%20AM.png](attachment:Screen%20Shot%202020-04-26%20at%2012.50.02%20AM.png)
+see mty.png in folder
 
 Mexico City:
 
-<img src="learning/cdmx">
+see cdmx.png in folder
 
 # Discussion
 
