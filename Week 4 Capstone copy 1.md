@@ -37,7 +37,7 @@ Monterrey:
 
 Mexico City:
 
-<img src="<img src="learning/Screen Shot 2020-04-26 at 12.47.06 AM.png">
+<img src="learning/cdmx">
 
 # Discussion
 
